@@ -9,7 +9,7 @@ namespace Username
 
         static void Main(string[] args)
         {
-            MenuUtama();
+            MenuUtama();//Menu Utama
             Pilihan();
         }
 
