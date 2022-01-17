@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\autentikasi\autentikasi\bin\Debug\netcoreapp3.1\autentikasi.exe
+C:\Users\LENOVO\source\repos\autentikasi\autentikasi\bin\Debug\netcoreapp3.1\autentikasi.deps.json
+C:\Users\LENOVO\source\repos\autentikasi\autentikasi\bin\Debug\netcoreapp3.1\autentikasi.runtimeconfig.json
+C:\Users\LENOVO\source\repos\autentikasi\autentikasi\bin\Debug\netcoreapp3.1\autentikasi.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\autentikasi\autentikasi\bin\Debug\netcoreapp3.1\autentikasi.dll
+C:\Users\LENOVO\source\repos\autentikasi\autentikasi\bin\Debug\netcoreapp3.1\autentikasi.pdb
+C:\Users\LENOVO\source\repos\autentikasi\autentikasi\obj\Debug\netcoreapp3.1\autentikasi.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\autentikasi\autentikasi\obj\Debug\netcoreapp3.1\autentikasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\autentikasi\autentikasi\obj\Debug\netcoreapp3.1\autentikasi.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\autentikasi\autentikasi\obj\Debug\netcoreapp3.1\autentikasi.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\autentikasi\autentikasi\obj\Debug\netcoreapp3.1\autentikasi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\autentikasi\autentikasi\obj\Debug\netcoreapp3.1\autentikasi.dll
+C:\Users\LENOVO\source\repos\autentikasi\autentikasi\obj\Debug\netcoreapp3.1\autentikasi.pdb
+C:\Users\LENOVO\source\repos\autentikasi\autentikasi\obj\Debug\netcoreapp3.1\autentikasi.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\autentikasi\autentikasi\bin\Debug\netcoreapp3.1\BCrypt.Net-Core.dll
+C:\Users\LENOVO\source\repos\autentikasi\autentikasi\obj\Debug\netcoreapp3.1\autentikasi.csproj.CopyComplete

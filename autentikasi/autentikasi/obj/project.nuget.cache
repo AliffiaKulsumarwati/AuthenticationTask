@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6aNu+UPhp12k/NXP/Xh9843uSkgMlEwctPUFXOl+97z/6DvBQbl3VZuj0jkf5MVpkyFl7JKw1smpnKY8ivIqgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\autentikasi\\autentikasi\\autentikasi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
