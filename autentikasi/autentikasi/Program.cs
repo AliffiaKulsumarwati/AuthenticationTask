@@ -130,8 +130,19 @@ namespace Username
 
         private static void Search()
         {
+            
             Console.Clear();
-            Console.WriteLine("Fitur Belum Tersedia");
+            Console.Write("Masukan Keyword : ");
+            string cari = Console.ReadLine();
+
+            foreach (User user in users)
+            {
+                if (user.FirstName.ToLower().Contains(cari) || user.LastName.ToLower().Contains(cari))
+                {
+                    Console.WriteLine($"NAME\t: {user.FirstName} {user.LastName}");
+                    Console.WriteLine($"EMAIL\t: {user.UserName}");
+                }
+            }
             Kembali();
         }
 

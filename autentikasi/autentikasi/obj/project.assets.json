@@ -49,11 +49,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\autentikasi\\autentikasi\\autentikasi.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\Documents\\GitHub\\AuthenticationTask\\autentikasi\\autentikasi\\autentikasi.csproj",
       "projectName": "autentikasi",
-      "projectPath": "C:\\Users\\LENOVO\\source\\repos\\autentikasi\\autentikasi\\autentikasi.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\Documents\\GitHub\\AuthenticationTask\\autentikasi\\autentikasi\\autentikasi.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\source\\repos\\autentikasi\\autentikasi\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\Documents\\GitHub\\AuthenticationTask\\autentikasi\\autentikasi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
