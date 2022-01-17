@@ -45,7 +45,7 @@ namespace Username
         {
            
             Console.WriteLine("=Login User=");//test
-            Console.Write("Masukkan username: ");
+            Console.Write("Masukkan username: ");//test lagi
             string inUser = Console.ReadLine();
             Console.Write("Masukkan Password: ");
             string inPwd = Console.ReadLine();
